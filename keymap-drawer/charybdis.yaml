@@ -1,7 +1,7 @@
 layers:
   BASE:
   - {t: BASE, h: toggle}
-  - D
+  - Q
   - W
   - E
   - R
@@ -24,7 +24,7 @@ layers:
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: LCMD}
   - DEL
-  - SEARCH
+  - {t: '{', h: EXTRAS}
   - Z
   - {t: X, h: MEH}
   - {t: C, h: HYPER}
@@ -236,7 +236,7 @@ layers:
   - STOP
   - NEXT
   - ''
-  - LOCK
+  - {t: LOCK, type: held}
   - ''
   - ''
   - ''
@@ -250,7 +250,7 @@ layers:
   - ZMK Studio
   - ''
   - ''
-  - ''
+  - {t: DELETE, h: BACK SPACE}
   - ''
   - ''
   MOUSE:
