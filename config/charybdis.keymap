@@ -212,10 +212,10 @@
 
         SYM {
             bindings = <
-&none  &kp PLUS       &kp LEFT_BRACE     &kp RIGHT_BRACE  &kp MINUS             &kp COLON        &kp BSLH   &kp GRAVE             &kp DLLR      &kp CARET        &kp SQT      &none
-&none  &hm LCMD EXCL  &hm LEFT_ALT LPAR  &hm LCTRL RPAR   &hm LEFT_SHIFT SPACE  &kp TILDE        &kp SLASH  &hm LEFT_SHIFT SPACE  &hm LCTRL LT  &hm LEFT_ALT GT  &kp HASH     &none
-&none  &kp EQUAL      &kp LBKT           &kp RBKT         &kp UNDERSCORE        &kp SEMICOLON    &kp PIPE   &kp ASTRK             &kp AMPS      &kp PRCNT        &kp AT_SIGN  &none
-                                         &trans           &trans                &trans           &none      &trans
+&none         &kp PLUS       &kp LEFT_BRACE     &kp RIGHT_BRACE  &kp MINUS             &kp COLON        &kp BSLH   &kp GRAVE             &kp DLLR      &kp CARET        &kp SQT      &none
+&kp QUESTION  &hm LCMD EXCL  &hm LEFT_ALT LPAR  &hm LCTRL RPAR   &hm LEFT_SHIFT SPACE  &kp TILDE        &kp SLASH  &hm LEFT_SHIFT SPACE  &hm LCTRL LT  &hm LEFT_ALT GT  &kp HASH     &none
+&none         &kp EQUAL      &kp LBKT           &kp RBKT         &kp UNDERSCORE        &kp SEMICOLON    &kp PIPE   &kp ASTRK             &kp AMPS      &kp PRCNT        &kp AT_SIGN  &none
+                                                &trans           &trans                &trans           &none      &trans
             >;
         };
 
