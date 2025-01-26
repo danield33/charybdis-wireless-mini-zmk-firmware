@@ -1,7 +1,7 @@
 layers:
   BASE:
   - {t: BASE, h: toggle}
-  - Q
+  - D
   - W
   - E
   - R
@@ -102,7 +102,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ''
-  - VSPLIT
+  - ''
   - LEFT
   - DOWN
   - UP
@@ -114,7 +114,7 @@ layers:
   - ''
   - ''
   - ''
-  - HSPLIT
+  - ''
   - HOME
   - PG DN
   - PG UP
@@ -213,9 +213,9 @@ layers:
   - {t: ▽, type: trans}
   EXTRAS:
   - POWER
-  - SHRUG
-  - LGTM
-  - GIT COMMIT
+  - ''
+  - ''
+  - ''
   - ''
   - BRIGHTNESS INC
   - {t: BT, h: '0'}
@@ -225,9 +225,9 @@ layers:
   - OUT TOG
   - BT CLR
   - SLEEP
-  - SHIT SUDO
-  - PYTHON LOOP
-  - JS LOOP
+  - ''
+  - ''
+  - ''
   - ''
   - BRIGHTNESS DEC
   - ''
@@ -241,8 +241,8 @@ layers:
   - ''
   - ''
   - ''
-  - CLIP HIST
-  - NEW DIR
+  - ''
+  - ''
   - MUTE
   - VOLUME DOWN
   - VOLUME UP
