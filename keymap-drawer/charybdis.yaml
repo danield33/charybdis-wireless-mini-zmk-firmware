@@ -23,11 +23,11 @@ layers:
   - {t: K, h: RCTRL}
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: LCMD}
-  - DEL
+  - F3
   - {t: '{', h: EXTRAS}
   - Z
   - {t: X, h: MEH}
-  - {t: C, h: HYPER}
+  - C
   - V
   - B
   - N
