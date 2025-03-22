@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: charybdis}
 layers:
   BASE:
-  - {t: Ctl+ C, h: EXTRAS}
+  - {t: Ctl+ TAB, h: EXTRAS}
   - Q
   - W
   - E
@@ -12,8 +12,8 @@ layers:
   - I
   - O
   - P
-  - M CLK
-  - {t: TAB, h: LCMD}
+  - {t: (, h: LEFT ALT}
+  - {t: '{', h: LCMD}
   - A
   - {t: S, h: LEFT ALT}
   - {t: D, h: LCTRL}
@@ -24,7 +24,7 @@ layers:
   - {t: K, h: RCTRL}
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: LCMD}
-  - F3
+  - '}'
   - {t: '{', h: NAV}
   - Z
   - {t: X, h: MEH}
