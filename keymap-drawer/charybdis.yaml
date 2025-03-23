@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - {t: (, h: LEFT ALT}
+  - {t: '[', h: LEFT ALT}
   - {t: '{', h: LCMD}
   - A
   - {t: S, h: LEFT ALT}
@@ -24,7 +24,7 @@ layers:
   - {t: K, h: RCTRL}
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: LCMD}
-  - '}'
+  - (
   - {t: '{', h: NAV}
   - Z
   - {t: X, h: MEH}
@@ -36,7 +36,7 @@ layers:
   - {t: ',', h: HYPER}
   - {t: ., h: MEH}
   - /
-  - R CLK
+  - )
   - SCRL SLOW
   - L CLK
   - {t: BACK SPACE, h: NUM}
