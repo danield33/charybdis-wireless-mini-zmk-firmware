@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: charybdis}
 layers:
   BASE:
-  - {t: Ctl+ TAB, h: EXTRAS}
+  - {t: TAB, h: EXTRAS}
   - Q
   - W
   - E
