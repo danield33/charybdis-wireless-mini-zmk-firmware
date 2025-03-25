@@ -390,3 +390,5 @@ combos:
   k: R CLK
 - p: [38, 39]
   k: L_BASE L_EXTRA
+- p: [2, 3]
+  k: '&missioncontrol'
