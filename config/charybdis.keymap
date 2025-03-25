@@ -153,6 +153,11 @@
             key-positions = <2 3>;
         };
 
+        AppExpose {
+            bindings = <&appexpose>;
+            key-positions = <26 27>;
+        };
+
         // GameLayer {
         //     bindings = <&tog 4>;
         //     key-positions = <8 9>;
@@ -189,6 +194,13 @@
             #binding-cells = <0>;
             bindings = <&kt LEFT_CONTROL &kp UP_ARROW &kt LEFT_CONTROL>;
             label = "MISSIONCONTROL";
+        };
+
+        appexpose: appexpose {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kt LEFT_CONTROL &kp DOWN_ARROW &kt LEFT_CONTROL>;
+            label = "APPEXPOSE";
         };
     };
 

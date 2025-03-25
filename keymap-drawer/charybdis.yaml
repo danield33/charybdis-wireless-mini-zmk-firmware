@@ -392,3 +392,5 @@ combos:
   k: L_BASE L_EXTRA
 - p: [2, 3]
   k: '&missioncontrol'
+- p: [26, 27]
+  k: '&appexpose'
